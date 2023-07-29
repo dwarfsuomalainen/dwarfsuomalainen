@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/dwarfsuomalainen=DenverCoder1)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=dwarfsuomalainen
 <!--
 **dwarfsuomalainen/dwarfsuomalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
